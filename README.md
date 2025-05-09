@@ -1,1 +1,1 @@
-I created this project using core concepts of html and Css.
+I created amazon project using core concepts of html and Css.
